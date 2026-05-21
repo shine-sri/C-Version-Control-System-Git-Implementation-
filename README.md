@@ -1,4 +1,4 @@
-A lightweight, systems-level Version Control System written in C++17. Reconstructs Git’s object database, Merkle DAG tracking, and binary index parsing from the ground up using strict Object-Oriented Programming (OOP) principles.
+A lightweight, systems-level Version Control System written in C++17. Reconstructs Git’s object database, Merkle DAG tracking, and binary index parsing from the ground up using  Object-Oriented Programming (OOP) principles.
 
 ## Features
 
@@ -45,3 +45,4 @@ echo "Hello GitCore" > readme.txt
 
 Acknowledgements
 This C++ adaptation was built following the excellent foundational concepts outlined in the tutorial: Write Yourself a Git by Thibault Polge.
+Link : https://wyag.thb.lt/#getting-started 
